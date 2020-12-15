@@ -1,6 +1,7 @@
 # Optimizing Head Related Transfer Functionusing Clustering and Differential Evolution
 
-**Final MSc Project - University of Nottingham, UK**
+<!-- ABOUT THE PROJECT -->
+## Final MSc Project - University of Nottingham, UK
 **Yash Mathur**
 <a href="#about-the-project">About The Project</a>
 Abstract
