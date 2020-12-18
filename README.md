@@ -1,4 +1,4 @@
-# Optimizing Head Related Transfer Functionusing Clustering and Differential Evolution
+# Optimizing Head Related Transfer Function using Clustering and Differential Evolution
 
 <!-- ABOUT THE PROJECT -->
 ## Final MSc Project - University of Nottingham, UK
